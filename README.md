@@ -6,8 +6,8 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
+Imię i nazwisko studenta:   Weronika Tabakowska  
+Numer albumu:               72556 
 Grupa studencka:            WEL18DE1S1
 
 # Pytania do zadań z instrukcji
